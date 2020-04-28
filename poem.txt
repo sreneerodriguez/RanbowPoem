@@ -1,4 +1,6 @@
-this is my poem about rainbows
+The rainbow and the unicorn
+
+this is my poem about rainbows and unicorns in the unicorn branch
 
 I like rainbows. 
 They have many colors.
@@ -9,7 +11,9 @@ Green
 Blue
 Indigo
 Violet
+Unicorn
 These are the colors of the rainbow
+and the unicorn
 
 I wanted to add another line because rainbows are pretty.
 
