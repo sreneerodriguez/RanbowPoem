@@ -10,3 +10,5 @@ Blue
 Indigo
 Violet
 These are the colors of the rainbow
+
+I wanted to add another line because rainbows are pretty.
